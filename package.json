@@ -1,0 +1,15 @@
+{
+  "name": "lample-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Lample-syntax is an Atom syntax theme inspired by the emacs ample theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Opiumozor/lample-syntax",
+  "license": "WTFPL",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
