@@ -1,2 +1,3 @@
-# lample-syntax
-Lample-syntax is an Atom syntax theme inspired by the emacs ample theme
+# lample-syntax theme
+
+Lample syntax theme is inspired by Ample emacs theme.
