@@ -15,3 +15,7 @@ Lample-syntax is a dark Atom syntax theme inspired by the emacs [ample theme](ht
 ### Contributing
 
 *TODO*
+
+### License
+
+Lample-syntax is licensed under the [WTFPL](./LICENSE.md). 
